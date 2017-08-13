@@ -1,0 +1,21 @@
+The HitRate for 1 lines is: 15.269222
+The HitRate for 2 lines is: 8.570469
+The HitRate for 3 lines is: 6.028115
+The HitRate for 4 lines is: 4.800839
+The HitRate for 5 lines is: 4.015252
+The HitRate for 6 lines is: 3.504283
+The HitRate for 7 lines is: 3.128787
+The HitRate for 8 lines is: 3.024802
+The HitRate for 9 lines is: 2.925646
+The HitRate for 10 lines is: 2.846864
+The HitRate for 11 lines is: 2.762551
+The HitRate for 12 lines is: 2.687022
+The HitRate for 13 lines is: 2.616152
+The HitRate for 14 lines is: 2.557555
+The HitRate for 15 lines is: 2.497770
+The HitRate for 16 lines is: 2.446669
+The HitRate for 17 lines is: 2.397716
+The HitRate for 18 lines is: 2.351162
+The HitRate for 19 lines is: 2.304704
+The HitRate for 20 lines is: 2.159693
+Average Hit Rate: 3.944764
